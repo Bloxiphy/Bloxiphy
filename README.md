@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Bloxiphy&color=blueviolet)
+
 <h1 align="center">Hi 👋, I'm Bloxiphy</h1>
 <h3 align="center">I am a part-time, intermediate DIscord Bot Developer.</h3>
 </br>
