@@ -1,13 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=Bloxiphy&color=blueviolet)
 
 <h1 align="center">Hi 👋, I'm Bloxiphy</h1>
-<h3 align="center">I am a part-time, intermediate Discord Bot Developer.</h3>
+<h3 align="center">I am a part-time, intermediate Discord Bot Developer and YouTuber.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **life.**
-- 📫 How to reach me: **Find me on [Discord](https://discord.com/invite/tmhxwernES)!**
-- ⚡ Fun fact: **I started "coding" using Scratch! 😅**
+- 📫 How to reach me: **Find me on [Discord](https://discord.com/invite/tmhxwernES).**
+- 🎮 Check out my **[YouTube Channel](https://bit.ly/sadielnoobygurl).**
+- ⚡ Fun fact: **I am not fun.**
 
 ---
 
@@ -26,7 +27,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="" target="_blank" <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" alt="powershell" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=photoshop" />
+<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express" />
+</p>
 
------
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloxiphy&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bloxiphy&show_icons=true&theme=dark&line_height=21" alt="Bloxiphy' github stats"/>
+
 
