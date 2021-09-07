@@ -6,9 +6,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **life.**
-- 📫 How to reach me: **Find me on [Discord](https://discord.com/invite/tmhxwernES).**
-- 🎮 Check out my **[YouTube Channel](https://bit.ly/sadielnoobygurl).**
-- ⚡ Fun fact: **I am not fun.**
+- 📫 How to reach me: **Find me on [Discord](https://discord.com/invite/tmhxwernES)**.
+- 🎮 Check out my **[YouTube Channel](https://bit.ly/sadielnoobygurl)**.
+- ✨ I am currently working on **[Brawl.Top](https://brawl.top)**.
+- ⚡ Fun fact: **I am a Light Mode user.**
 
 ---
 
@@ -39,6 +40,9 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloxiphy&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bloxiphy&show_icons=true&theme=dark&line_height=21" alt="Bloxiphy' github stats"/>
-
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bloxiphy&show_icons=true&theme=dark&line_height=21" alt="Bloxiphy's github stats"/> </p>
+  
+<a href="https://discord.com/users/708580906880860171">
+  <p align="center">
+    <img src="https://lanyard-profile-readme.vercel.app/api/708580906880860171" />
+  </p>
