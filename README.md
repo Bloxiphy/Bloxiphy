@@ -24,7 +24,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://discord.gg/pika" target="blank"><img align="center" src="https://media.discordapp.net/attachments/728212730779140148/867959472688074832/discord-new-logo-2021-r225x.png?width=202&height=202" alt="Bloxiphy" height="40" width="40" /></a>
+<a href="https://brawl.top/ia" target="blank"><img align="center" src="https://media.discordapp.net/attachments/728212730779140148/867959472688074832/discord-new-logo-2021-r225x.png?width=202&height=202" alt="Bloxiphy" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
