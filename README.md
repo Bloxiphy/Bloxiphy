@@ -6,9 +6,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **life.**
-- 📫 How to reach me: **Find me on [Discord](https://discord.com/invite/tmhxwernES)**.
+- 📫 How to reach me: **Find me on [Discord](https://discord.com/users/tmhxwernES)**.
 - 🎮 Check out my **[YouTube Channel](https://bit.ly/sadielnoobygurl)**.
-- ✨ I am currently working on **[Brawl.Top](https://brawl.top)**.
 - ⚡ Fun fact: **I am a Light Mode user.**
 
 ---
