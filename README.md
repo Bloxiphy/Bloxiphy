@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=Bloxiphy&color=blueviolet)
 
 <h1 align="center">Hi 👋, I'm Bloxiphy</h1>
-<h3 align="center">I am a part-time, intermediate Discord Bot Developer and YouTuber.</h3>
+<h3 align="center">I am a part-time, intermediate Discord Bot Developer and Gymrat.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 💬 Ask me about: **life.**
 - 📫 How to reach me: **Find me on [Discord](https://discord.com/users/tmhxwernES)**.
-- 🎮 Check out my **[YouTube Channel](https://bit.ly/sadielnoobygurl)**.
+- 📸 Check out my **[Instagram](https://instagram.com/jay2dee_)**.
 - ⚡ Fun fact: **I am a Light Mode user.**
 
 ---
